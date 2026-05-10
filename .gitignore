@@ -30,3 +30,6 @@ npm-debug.log*
 # Misc
 .cache/
 *.tsbuildinfo
+_ghpages_check/
+/public/manifest.json
+/public/sw.js
